@@ -1,4 +1,6 @@
 OpenAI and ChatGPT repo
+### 
+.Net SDK (unofficial): https://github.com/Glareone/openai   
 
 ## OpenAI integration ideas
 ![OpenAI](https://user-images.githubusercontent.com/4239376/230776490-6477a1e3-dd44-4ff4-a47b-9e36dec48dd6.png)
