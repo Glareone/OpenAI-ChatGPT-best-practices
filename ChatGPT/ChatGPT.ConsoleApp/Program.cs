@@ -11,7 +11,7 @@ if (args.Length <= 0)
 
 HttpClient client = new();
 
-client.DefaultRequestHeaders.Add("Authorization", "Bearer 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");
+client.DefaultRequestHeaders.Add("Authorization", "Bearer <INSERT YOUR TOKEN>");
 
 var content = new StringContent("{\"model\": \"text-davinci-003\", \"prompt\": \"" + args[0] +
                                     "\", \"temperature\": 1, \"max_tokens\": 100}", Encoding.UTF8, "application/json");
