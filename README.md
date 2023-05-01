@@ -1,4 +1,8 @@
 OpenAI and ChatGPT repo
+
+Table of Content
+1. [ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)
+
 ### 
 .Net SDK (unofficial): https://github.com/Glareone/openai   
 
