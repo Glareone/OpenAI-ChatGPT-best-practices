@@ -1,0 +1,27 @@
+*.user
+*.resharper
+*.sln.cache
+*.suo
+*.log
+*.orig
+*.cache
+*.pyc
+*.pyd
+*.pyo
+*.rbc
+_ReSharper*/
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esult*/
+[Tt]emp/
+*.cshtml.g.cs
+
+# Directories
+_ReSharper*/
+.vs/
+packages/
+.git/
+.idea/
+
+ChatGPT/.idea/
+ChatGPT/ChatGPT.ConsoleApp/bin/
