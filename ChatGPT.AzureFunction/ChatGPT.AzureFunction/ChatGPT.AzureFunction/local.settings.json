@@ -3,6 +3,6 @@
     "Values": {
         "AzureWebJobsStorage": "UseDevelopmentStorage=true",
         "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-        "chatGPTToken": "Bearer <SET YOUR TOKEN HERE>"
+        "chatGPTToken": ""
     }
 }
