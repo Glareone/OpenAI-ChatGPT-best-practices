@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ChatGPT.AzureFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7083",
+      "launchBrowser": false
+    }
+  }
+}
