@@ -32,9 +32,8 @@ public static class HttpTrigger
         }
 
         HttpClient client = new();
-        client.DefaultRequestHeaders.Add("Authorization", environmentValue);
-
-
+        client.DefaultRequestHeaders.Add("Authorization", $"Bearer {environmentValue}");
+        
         var content = new StringContent("{\"model\": \"text-davinci-003\", \"prompt\": \"" + prompts[0] + "\", \"temperature\": 1, \"max_tokens\": 100}", Encoding.UTF8, "application/json");
         var response = await client.PostAsync("https://api.openai.com/v1/completions", content);
 
