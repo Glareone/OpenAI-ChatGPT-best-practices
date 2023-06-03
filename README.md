@@ -1,7 +1,8 @@
 OpenAI and ChatGPT repo
 
 Table of Content
-1. [ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)
+1. [ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
+2. [Azure Function with ChatGPT](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)
 
 ### 
 .Net SDK (unofficial): https://github.com/Glareone/openai   
