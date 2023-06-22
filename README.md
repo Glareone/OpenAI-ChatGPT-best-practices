@@ -3,8 +3,7 @@ OpenAI and ChatGPT repo
 Table of Content
 1. [ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
 2. [Azure Function with ChatGPT](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)
-3. [OpenAI + PowerAutomate Workshop by me.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11787413/Workshop.Introduction.pptx)
-
+3. [OpenAI + PowerAutomate Workshop by me.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11840513/Workshop.Introduction.pptx)
 
 ### 
 .Net SDK (unofficial): https://github.com/Glareone/openai   
