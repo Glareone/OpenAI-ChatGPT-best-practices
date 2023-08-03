@@ -9,22 +9,23 @@ using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
+using System.Dynamic;
 
 namespace ChatGPT.AzureFunction;
 
-public static class HttpTrigger
+public static class ChatGPTCompletions
 {
-    [FunctionName("HttpTrigger")]
+    [FunctionName("ChatGPT-Completions")]
     public static async Task<IActionResult> RunAsync(
         [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req, ILogger log)
     {
         var environmentValue = Environment.GetEnvironmentVariable("chatGPTToken");
-        
-        if(string.IsNullOrWhiteSpace(environmentValue))
+
+        if (string.IsNullOrWhiteSpace(environmentValue))
         {
             return new BadRequestObjectResult("chatGPT token is not provided");
         }
-        
+
         if (!req.Query.TryGetValue("prompt", out var prompts) || prompts.Count == 0)
         {
             log.LogError("C# HTTP trigger function stops processing the call because prompt is corrupted or not provided");
@@ -33,12 +34,19 @@ public static class HttpTrigger
 
         HttpClient client = new();
         client.DefaultRequestHeaders.Add("Authorization", $"Bearer {environmentValue}");
-        
-        var content = new StringContent("{\"model\": \"text-davinci-003\", \"prompt\": \"" + prompts[0] + "\", \"temperature\": 1, \"max_tokens\": 100}", Encoding.UTF8, "application/json");
-        var response = await client.PostAsync("https://api.openai.com/v1/completions", content);
+
+        dynamic content = new ExpandoObject();
+        content.model = "text-davinci-003";
+        content.prompt = prompts[0];
+        content.temperature = 1;
+        content.max_tokens = 1000;
+
+        var stringContent = new StringContent(JsonConvert.SerializeObject(content), Encoding.UTF8, "application/json");
+
+        var response = await client.PostAsync("https://api.openai.com/v1/completions", stringContent);
 
         var responseString = await response.Content.ReadAsStringAsync();
-        
+
         try
         {
             var dynData = JsonConvert.DeserializeObject<dynamic>(responseString);
