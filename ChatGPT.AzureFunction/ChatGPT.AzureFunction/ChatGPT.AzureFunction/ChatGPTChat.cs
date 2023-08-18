@@ -11,12 +11,14 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using System.Dynamic;
 
-public static class ChatGPTCompletions
+internal record ChatMessage(string role, string content);
+
+public static class ChatGPTChat
 {
-    private const string DefaultChatGptModel = "text-davinci-003";
+    private const string DefaultChatGptModel = "gpt-3.5-turbo-16k-0613";
     private const decimal DefaultChatGptTemperature = 0.5m;
 
-    [FunctionName("completion")]
+    [FunctionName("chat-completion")]
     public static async Task<IActionResult> RunAsync(
         [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req, ILogger log)
     {
@@ -33,36 +35,36 @@ public static class ChatGPTCompletions
             return new BadRequestObjectResult("prompt is not provided");
         }
 
+        var isModelDeclared = req.Query.TryGetValue("model", out var models);
         var isTemperatureDeclared = req.Query.TryGetValue("temperature", out var temperatures);
 
         HttpClient client = new();
         client.DefaultRequestHeaders.Add("Authorization", $"Bearer {environmentValue}");
 
+        var message = new ChatMessage("user", prompts[0]);
+
         dynamic content = new ExpandoObject();
-        content.model = DefaultChatGptModel;
-        content.prompt = prompts[0];
+        content.model = isModelDeclared && !string.IsNullOrEmpty(models[0]) ? models[0] : DefaultChatGptModel;
+        content.messages = new[] { message };
         content.temperature = isTemperatureDeclared && Decimal.TryParse(temperatures[0], out var temperature) ? temperature : DefaultChatGptTemperature;
         content.max_tokens = 3000;
 
         var stringContent = new StringContent(JsonConvert.SerializeObject(content), Encoding.UTF8, "application/json");
 
-        var response = await client.PostAsync("https://api.openai.com/v1/completions", stringContent);
+        var response = await client.PostAsync("https://api.openai.com/v1/chat/completions", stringContent);
 
         var responseString = await response.Content.ReadAsStringAsync();
 
         try
         {
             var dynData = JsonConvert.DeserializeObject<dynamic>(responseString);
-            var answer = (string)dynData.choices[0].text;
+            var answer = (string)dynData.choices[0].message.content;
             return new OkObjectResult(answer.Replace("\n", ""));
         }
         catch (Exception e)
         {
             log.LogInformation("Could not deserialized Json, error: {0}", e.Message);
-            return new BadRequestObjectResult("answer could not be deserialized");
+            return new BadRequestObjectResult($"answer could not be deserialized. {e.Message}");
         }
     }
-
-    private static bool IsDefaultModelSelected(string selectedModel) => 
-        string.Equals(selectedModel, DefaultChatGptModel, StringComparison.InvariantCultureIgnoreCase);
 }
