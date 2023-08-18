@@ -10,7 +10,7 @@ OpenAI and ChatGPT repo
 
 ## Practical Part. Table of Content
 1. [ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
-2. [Azure Function with ChatGPT](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)  
+2. [Azure Function with ChatGPT (completion and chat-completion)](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)  
 3. [Integration with PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerAutomate-Integration.md)  
 4. [Integration with PowerApp](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerApp-Integration.md)  
 5. Integration with Outlook
