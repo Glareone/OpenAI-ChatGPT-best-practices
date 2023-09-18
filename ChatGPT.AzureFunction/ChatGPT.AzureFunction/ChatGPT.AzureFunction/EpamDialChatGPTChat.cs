@@ -45,15 +45,13 @@ public static class EpamDialChatGPTChat
         };
         
         var stringContent = new StringContent(JsonConvert.SerializeObject(content), Encoding.UTF8, "application/json");
-
         var response = await client.PostAsync("https://ai-proxy.lab.epam.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2023-06-01-preview", stringContent);
-
         var responseString = await response.Content.ReadAsStringAsync();
 
         try
         {
-            var dynData = JsonConvert.DeserializeObject<dynamic>(responseString);
-            var answer = (string)dynData.choices[0].message.content;
+            var convertedResponse = JsonConvert.DeserializeObject<Response>(responseString);
+            var answer = convertedResponse.choices[0].message.content;
             return new OkObjectResult(answer.Replace("\n", ""));
         }
         catch (Exception e)
@@ -62,4 +60,8 @@ public static class EpamDialChatGPTChat
             return new BadRequestObjectResult("answer could not be deserialized");
         }
     }
+    
+    private record Response(string id, int created, string model, Choices[] choices);
+    private record Choices(int index, Message message);
+    private record Message(string role, string content);
 }
