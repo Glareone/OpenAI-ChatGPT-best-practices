@@ -49,7 +49,7 @@ public static class ChatGPTChatWithCache
 
         // Get Request Context which consist of questions and answers from previous
         var requestContext = await GetRequestContext(requestId);
-        var previousMessages = JsonConvert.DeserializeObject<ChatMessage[]>(requestContext);
+        var serializedRequestContext = JsonConvert.DeserializeObject<ChatMessage[]>(requestContext) ?? Array.Empty<ChatMessage>();
 
         // Compose Message to ChatGPT and Prepare the client
         HttpClient client = new();
@@ -60,7 +60,7 @@ public static class ChatGPTChatWithCache
 
         dynamic content = new ExpandoObject();
         content.model = isModelDeclared && !string.IsNullOrEmpty(models[0]) ? models[0] : DefaultChatGptModel;
-        content.messages = previousMessages.Concat(new ChatMessage[] { message });
+        content.messages = serializedRequestContext.Concat(new ChatMessage[] { message });
         content.temperature = isTemperatureDeclared && Decimal.TryParse(temperatures[0], out var temperature) ? temperature : DefaultChatGptTemperature;
         content.max_tokens = 3000;
 
@@ -79,7 +79,7 @@ public static class ChatGPTChatWithCache
             var serializedAnswer = new ChatMessage ("system", answer);
             await UpdateRequestContext(
                 requestId,
-                JsonConvert.DeserializeObject<ChatMessage[]>(requestContext),
+                serializedRequestContext,
                 new ChatMessage[] { message, serializedAnswer });
             
             return new OkObjectResult(answer.Replace("\n", ""));
