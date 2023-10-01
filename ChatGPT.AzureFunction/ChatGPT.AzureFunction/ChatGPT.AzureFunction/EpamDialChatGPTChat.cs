@@ -13,13 +13,13 @@ using Newtonsoft.Json;
 
 namespace ChatGPT.AzureFunction;
 
-public static class EpamDialChatGPTChat
+public static class EpamDialChatGptChat
 {
     [FunctionName("epam-dial-chat-completion")]
     public static async Task<IActionResult> RunAsync(
         [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req, ILogger log)
     {
-        var environmentValue = Environment.GetEnvironmentVariable("dial-chatGPTToken");
+        var environmentValue = Environment.GetEnvironmentVariable("dialChatGPTToken");
 
         if (string.IsNullOrWhiteSpace(environmentValue))
         {

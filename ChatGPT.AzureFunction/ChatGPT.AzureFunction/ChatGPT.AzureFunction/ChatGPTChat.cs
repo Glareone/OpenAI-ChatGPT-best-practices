@@ -11,8 +11,6 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using System.Dynamic;
 
-internal record ChatMessage(string role, string content);
-
 public static class ChatGPTChat
 {
     private const string DefaultChatGptModel = "gpt-3.5-turbo-16k-0613";
@@ -67,4 +65,6 @@ public static class ChatGPTChat
             return new BadRequestObjectResult($"answer could not be deserialized. {e.Message}");
         }
     }
+    
+    internal record ChatMessage(string role, string content);
 }
