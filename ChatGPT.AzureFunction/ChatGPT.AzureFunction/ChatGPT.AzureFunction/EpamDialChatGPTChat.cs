@@ -13,7 +13,7 @@ using Newtonsoft.Json;
 
 namespace ChatGPT.AzureFunction;
 
-public static class EpamDialChatGPTChat
+public static class EpamDialChatGptChat
 {
     [FunctionName("epam-dial-chat-completion")]
     public static async Task<IActionResult> RunAsync(
