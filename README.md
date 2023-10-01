@@ -9,12 +9,13 @@ OpenAI and ChatGPT repo
 2. IN PROGRESS. My Workshop Presentation. Run 2.pptx
 
 ## Practical Part. Table of Content
-1. [ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
-2. [Azure Function with ChatGPT (completion and chat-completion)](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)  
-3. [Integration with PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerAutomate-Integration.md)  
-4. [Integration with PowerApp](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerApp-Integration.md)  
-5. Integration with Outlook
+1. [Example:ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
+2. [Example: Azure Function with ChatGPT (completion and chat-completion)](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)  
+3. [Example: Integration with PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerAutomate-Integration.md)  
+4. [Example: Integration with PowerApp](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerApp-Integration.md)  
+5. Integration with Outlook(In progress)
 6. [OpenAI + PowerAutomate Workshop by me.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11840513/Workshop.Introduction.pptx)
+7. [Example: OpenAI + Redis](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPTChatWithCache.cs)
 
 ### 
 .Net SDK (unofficial): https://github.com/Glareone/openai   
