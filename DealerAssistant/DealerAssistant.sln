@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealerAssistant.ChatBot", "DealerAssistant.ChatBot\DealerAssistant.ChatBot.csproj", "{405E2E37-0CC2-4682-9B98-FCEE4D628F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealerAssistant.ChatBot.CachedContext", "DealerAssistant.ChatBot.CachedContext\DealerAssistant.ChatBot.CachedContext.csproj", "{7A2A920C-D8D5-40FA-8AC2-F643AE692220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealerAssistant.DAL", "DealerAssistant.DAL\DealerAssistant.DAL.csproj", "{CE199742-6D08-41B5-AB3E-1AFA805BCBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405E2E37-0CC2-4682-9B98-FCEE4D628F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405E2E37-0CC2-4682-9B98-FCEE4D628F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405E2E37-0CC2-4682-9B98-FCEE4D628F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405E2E37-0CC2-4682-9B98-FCEE4D628F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2A920C-D8D5-40FA-8AC2-F643AE692220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2A920C-D8D5-40FA-8AC2-F643AE692220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2A920C-D8D5-40FA-8AC2-F643AE692220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2A920C-D8D5-40FA-8AC2-F643AE692220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE199742-6D08-41B5-AB3E-1AFA805BCBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE199742-6D08-41B5-AB3E-1AFA805BCBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE199742-6D08-41B5-AB3E-1AFA805BCBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE199742-6D08-41B5-AB3E-1AFA805BCBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
