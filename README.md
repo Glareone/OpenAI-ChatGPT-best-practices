@@ -5,8 +5,8 @@ OpenAI and ChatGPT repo
 2. [LLM UseCase in Google. Sorting Optimization](https://www.artisana.ai/articles/googles-deepmind-ai-shatters-records-with-a-70-faster-sorting-algorithm)
 
 ## Workshops.
-1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)
-2. IN PROGRESS. My Workshop Presentation. Run 2.pptx
+1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)  
+2. [Online Workshop. ChatGPT -> Azure Function -> PowerAutomate. Run 2.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13213425/Workshop.Introduction.v.3.pptx)  
 
 ## Practical Part. Table of Content
 1. [Example:ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
