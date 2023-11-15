@@ -7,7 +7,9 @@ OpenAI and ChatGPT repo
 ## Workshops.
 1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)  
 2. [Online Workshop. ChatGPT -> Azure Function -> PowerAutomate. Run 2.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13213425/Workshop.Introduction.v.3.pptx)
-3. [Online Workshop. Run 3. Deep Learning -> Prompting -> ChatGPT -> Azure Function -> PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368718/Workshop.Introduction.v.4.FINAL.pptx)  
+3. [Online Workshop. Run 3. Deep Learning -> Prompting -> ChatGPT -> Azure Function -> PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368718/Workshop.Introduction.v.4.FINAL.pptx)
+4. [Opline Workshop for EHU University](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368730/EHU.Workshop.v.2.pptx)  
+
 
 
 ## Practical Part. Table of Content
