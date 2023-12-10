@@ -10,8 +10,6 @@ OpenAI and ChatGPT repo
 3. [Online Workshop. Run 3. Deep Learning -> Prompting -> ChatGPT -> Azure Function -> PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368718/Workshop.Introduction.v.4.FINAL.pptx)
 4. [Online+Offline Workshop for EHU University](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368730/EHU.Workshop.v.2.pptx)  
 
-
-
 ## Practical Part. Table of Content
 1. [Example:ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
 2. [Example: Azure Function with ChatGPT (completion and chat-completion)](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)  
@@ -21,6 +19,18 @@ OpenAI and ChatGPT repo
 6. [OpenAI + PowerAutomate Workshop by me.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11840513/Workshop.Introduction.pptx)  
 7. [Example: OpenAI + Redis](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPTChatWithCache.cs)  
 8. [BMW Dealer assistant. ChatGPT Chat + Startup + Redis + Context](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/DealerAssistant)  
+
+## Integration with PowerAutomate & PowerApp
+Main info:
+1. [PowerApp integration](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerApp-Integration.md)  
+2. [PowerAutomate integration](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerAutomate-Integration.md)  
+
+#### 1: PowerAutomate. React on manual trigger  
+<img width="1015" alt="image" src="https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/57421682-1207-4b76-897a-0814c40a33dc">   
+
+#### 2: PowerAutomate. React on keyword mentioned  
+<img width="1101" alt="image" src="https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/cb134e8f-3c0c-4e0b-abe2-ff350570a6b5">  
+
 
 ### 
 .Net SDK (unofficial): https://github.com/Glareone/openai   
