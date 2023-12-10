@@ -3,6 +3,9 @@ OpenAI and ChatGPT repo
 ## Theoretical Part. Table of Content
 1. [What is ChatGPT Doing. and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/?fbclid=IwAR0eV1C7bPYQeEX0BbmqR_8zAFTgf4S5q-bEXoG3ZK7fmxgMICj-QqW6ZWM)
 2. [LLM UseCase in Google. Sorting Optimization](https://www.artisana.ai/articles/googles-deepmind-ai-shatters-records-with-a-70-faster-sorting-algorithm)
+3. [Embeddings. Words to Vector. Useful in Search Scenarios and for Cognitive Search](https://platform.openai.com/docs/api-reference/embeddings/object)
+4. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
+5. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)  
 
 ## Workshops.
 1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)  
@@ -15,11 +18,11 @@ OpenAI and ChatGPT repo
 2. [Example: Azure Function with ChatGPT (completion and chat-completion)](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)  
 3. [Example: Integration with PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerAutomate-Integration.md)  
 4. [Example: Integration with PowerApp](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerApp-Integration.md)  
-5. Integration with Outlook(In progress)
+5. Integration with Outlook (In progress)
 6. [OpenAI + PowerAutomate Workshop by me.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11840513/Workshop.Introduction.pptx)  
 7. [Example: OpenAI + Redis](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPTChatWithCache.cs)  
 8. [BMW Dealer assistant. ChatGPT Chat + Startup + Redis + Context](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/DealerAssistant)
-9. [Embeddings](In progress)  
+9. Embeddings (In progress)  
 
 ## Integration with PowerAutomate & PowerApp
 Main info:
