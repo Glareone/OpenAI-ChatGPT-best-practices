@@ -18,7 +18,8 @@ OpenAI and ChatGPT repo
 5. Integration with Outlook(In progress)
 6. [OpenAI + PowerAutomate Workshop by me.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11840513/Workshop.Introduction.pptx)  
 7. [Example: OpenAI + Redis](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPTChatWithCache.cs)  
-8. [BMW Dealer assistant. ChatGPT Chat + Startup + Redis + Context](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/DealerAssistant)  
+8. [BMW Dealer assistant. ChatGPT Chat + Startup + Redis + Context](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/DealerAssistant)
+9. [Embeddings](In progress)  
 
 ## Integration with PowerAutomate & PowerApp
 Main info:
