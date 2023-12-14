@@ -55,4 +55,8 @@ Main info:
 
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/0d7221a7-fff5-4d3d-9eae-1473cf338f38)
 
+## Semantic Kernel
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/f9ed16f2-80ba-42c9-b6fc-50b488cee8d2)  
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/86d0f7e2-cf7f-4a2c-93a1-a97427498ed0)  
+
 
