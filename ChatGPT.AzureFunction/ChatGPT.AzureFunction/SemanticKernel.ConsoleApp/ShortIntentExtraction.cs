@@ -30,17 +30,17 @@ public static class ShortIntentExtraction
         };
 
         // Prompt
-        var input = "I want to find top-10 books about world history";
-        var skPrompt = @"ChatBot: How can I help you?
+        var UserInput = "I want to find top-10 books about world history";
+        var SemanticKernelPrompt = @"ChatBot: How can I help you?
                 User: {{$input}}
                 ---------------------------------------------
                 Return data requested by user: ";
                 
-        var getShortIntentFunctionGpt35  = kernel.CreateFunctionFromPrompt(skPrompt, aiRequestSettingsGpt35);
-        var intentResultGpt35 = await kernel.InvokeAsync(getShortIntentFunctionGpt35, new KernelArguments(input));
+        var getShortIntentFunctionGpt35  = kernel.CreateFunctionFromPrompt(SemanticKernelPrompt, aiRequestSettingsGpt35);
+        var intentResultGpt35 = await kernel.InvokeAsync(getShortIntentFunctionGpt35, new KernelArguments(UserInput));
         
-        var getShortIntentFunctionGpt4  = kernel.CreateFunctionFromPrompt(skPrompt, aiRequestSettingsGpt4);
-        var intentResultGpt4 = await kernel.InvokeAsync(getShortIntentFunctionGpt4, new KernelArguments(input));
+        var getShortIntentFunctionGpt4  = kernel.CreateFunctionFromPrompt(SemanticKernelPrompt, aiRequestSettingsGpt4);
+        var intentResultGpt4 = await kernel.InvokeAsync(getShortIntentFunctionGpt4, new KernelArguments(UserInput));
 
         if (string.IsNullOrEmpty(intentResultGpt35?.GetValue<string>()) &&
             string.IsNullOrEmpty(intentResultGpt4?.GetValue<string>()))

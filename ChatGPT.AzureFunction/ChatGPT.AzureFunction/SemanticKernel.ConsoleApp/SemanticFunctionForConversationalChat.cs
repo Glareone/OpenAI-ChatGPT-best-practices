@@ -1,6 +1,5 @@
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.AI.ChatCompletion;
-using Microsoft.SemanticKernel.Connectors.AI.OpenAI;
 
 namespace SemanticKernel.ConsoleApp;
 
@@ -10,24 +9,10 @@ public static class SemanticFunctionForConversationalChat
     {
         var builder = new KernelBuilder();
         // register GPT-35
-        builder.AddAzureOpenAIChatCompletion("gpt-35-turbo", "gpt-35-turbo", "https://ai-proxy.lab.epam.com", "<INSERT YOUR KEY>", serviceId: "AzureGtp35TurboService");
+        builder.AddAzureOpenAIChatCompletion("gpt-35-turbo", "gpt-35-turbo", "https://ai-proxy.lab.epam.com", "f668fd11763c428bb3bddf08c6d7e412", serviceId: "AzureGtp35TurboService");
         // register GPT-4
         builder.AddAzureOpenAIChatCompletion("gpt-4-32k", "gpt-4-32k", "https://ai-proxy.lab.epam.com", "<INSERT YOUR KEY>", serviceId: "AzureGtp4TurboService");
         var kernel = builder.Build();
-        //
-        // // Request GPT3.5 Configuration
-        // var aiRequestSettingsGpt35 = new OpenAIPromptExecutionSettings 
-        // {
-        //     ExtensionData = new Dictionary<string, object> { { "api-version", "2023-03-15-preview" } },
-        //     ServiceId = "AzureGtp35TurboService"
-        // };
-        //
-        // // Request GPT4 Configuration
-        // var aiRequestSettingsGpt4 = new OpenAIPromptExecutionSettings 
-        // {
-        //     ExtensionData = new Dictionary<string, object> { { "api-version", "2023-03-15-preview" } },
-        //     ServiceId = "AzureGtp4TurboService"
-        // };
         
         // Chat History (obviously)
         var chatHistory = new ChatHistory("You are a librarian, expert about books");
@@ -55,5 +40,5 @@ public static class SemanticFunctionForConversationalChat
         var gpt4reply = await chatServiceGpt4.GetChatMessageContentAsync(chatHistory);
         
         return (gpt35reply, gpt4reply);
-    } 
+    }
 }
