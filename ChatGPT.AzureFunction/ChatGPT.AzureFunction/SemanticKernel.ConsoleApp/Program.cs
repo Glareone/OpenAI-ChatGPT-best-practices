@@ -30,3 +30,9 @@ foreach (var ChatHistoryMessage in InteractiveChatFunction.ChatHistory)
 {
     Console.WriteLine($"{ChatHistoryMessage.Role}: {ChatHistoryMessage.Content}");
 }
+
+// HuggingFace. Model Switching.
+// CAUTION: MODEL CONFIGURATION SHOULD BE TUNED!
+var huggingFaceInstance = new ModelSwitching_HuggingFaceModel();
+var result = await huggingFaceInstance.InteractWithHuggingFace("I want to find top-10 books about world history");
+Console.WriteLine(result);
