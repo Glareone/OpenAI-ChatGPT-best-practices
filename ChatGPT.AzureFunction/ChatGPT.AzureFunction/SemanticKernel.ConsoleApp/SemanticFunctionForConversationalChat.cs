@@ -9,7 +9,7 @@ public static class SemanticFunctionForConversationalChat
     {
         var builder = new KernelBuilder();
         // register GPT-35
-        builder.AddAzureOpenAIChatCompletion("gpt-35-turbo", "gpt-35-turbo", "https://ai-proxy.lab.epam.com", "<INSERT YOUR KEY>", serviceId: "AzureGtp35TurboService");
+        builder.AddAzureOpenAIChatCompletion("gpt-35-turbo", "gpt-35-turbo", "https://ai-proxy.lab.epam.com", "f668fd11763c428bb3bddf08c6d7e412", serviceId: "AzureGtp35TurboService");
         // register GPT-4
         builder.AddAzureOpenAIChatCompletion("gpt-4-32k", "gpt-4-32k", "https://ai-proxy.lab.epam.com", "<INSERT YOUR KEY>", serviceId: "AzureGtp4TurboService");
         var kernel = builder.Build();
