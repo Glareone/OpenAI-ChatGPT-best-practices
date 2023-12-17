@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.SemanticKernel" Version="1.0.0-rc3" />
+      <PackageReference Include="Microsoft.SemanticKernel.Connectors.AI.HuggingFace" Version="1.0.0-rc3" />
     </ItemGroup>
 
 </Project>
