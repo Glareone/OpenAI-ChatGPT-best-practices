@@ -7,7 +7,6 @@ public static class ShortIntentExtraction
 {
     public static async Task<(string gpt35result, string gpt4result)> InvokeEpamSemanticKernelEndpoint()
     {
-        
         var builder = new KernelBuilder();
         // register GPT-35
         builder.AddAzureOpenAIChatCompletion("gpt-35-turbo", "gpt-35-turbo", "https://ai-proxy.lab.epam.com", "<INSERT YOUR KEY>", serviceId: "AzureGtp35TurboService");

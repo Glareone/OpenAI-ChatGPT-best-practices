@@ -36,3 +36,8 @@ foreach (var ChatHistoryMessage in InteractiveChatFunction.ChatHistory)
 var huggingFaceInstance = new ModelSwitching_HuggingFaceModel();
 var result = await huggingFaceInstance.InteractWithHuggingFace("I want to find top-10 books about world history");
 Console.WriteLine(result);
+
+// SemanticKernel Pipeline
+var semanticKernelPipeline = new SemanticKernelPipeline("<INSERT THE TOKEN HERE>");
+var output = await semanticKernelPipeline.GetBooksAndTranslatePipelineInvoke();
+Console.WriteLine(output);
