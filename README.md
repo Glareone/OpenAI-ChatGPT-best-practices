@@ -5,7 +5,15 @@ OpenAI and ChatGPT repo
 2. [LLM UseCase in Google. Sorting Optimization](https://www.artisana.ai/articles/googles-deepmind-ai-shatters-records-with-a-70-faster-sorting-algorithm)
 3. [Embeddings. Words to Vector. Useful in Search Scenarios and for Cognitive Search](https://platform.openai.com/docs/api-reference/embeddings/object)
 4. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
-5. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)  
+5. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
+
+## My LinkedIn Posts
+1. [GenAI. Where could be applied. Post 1.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013300/GenAI.Fields.Post.1.pdf)  
+2. [GenAI in Application Refactoring field, Slides.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013311/LinkedIn.post.day.2.compressed.pdf)  
+3. [Legal problems with AI.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013316/Legal.problems.with.AI.pdf)  
+
+
+
 
 ## Workshops.
 1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)  
