@@ -11,7 +11,7 @@ OpenAI and ChatGPT repo
 1. [GenAI. Where could be applied. Post 1.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013300/GenAI.Fields.Post.1.pdf)  
 2. [GenAI in Application Refactoring field, Slides.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013311/LinkedIn.post.day.2.compressed.pdf)  
 3. [Legal problems with AI.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013316/Legal.problems.with.AI.pdf)  
-4. [Paradigms: Rag, Self-RAG, Re-Ranking RAG, FLARE.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14037219/Post.4.pdf)  
+4. [Paradigms: Rag, Self-RAG, Re-Ranking RAG, FLARE v.2.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14037439/Rag.Self-RAG.FLARE.Re-Ranking.pdf)  
 
 
 
