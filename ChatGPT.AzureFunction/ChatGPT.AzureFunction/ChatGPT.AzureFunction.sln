@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPT.AzureFunction", "ChatGPT.AzureFunction\ChatGPT.AzureFunction.csproj", "{2D1C2CD2-FEC6-4266-867A-E3517874B8F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticKernel.AzureFunction", "SemanticKernel.AzureFunction\SemanticKernel.AzureFunction.csproj", "{D3B37FA4-9369-44E5-9CB6-F103FCE648F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2D1C2CD2-FEC6-4266-867A-E3517874B8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D1C2CD2-FEC6-4266-867A-E3517874B8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D1C2CD2-FEC6-4266-867A-E3517874B8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B37FA4-9369-44E5-9CB6-F103FCE648F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B37FA4-9369-44E5-9CB6-F103FCE648F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B37FA4-9369-44E5-9CB6-F103FCE648F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B37FA4-9369-44E5-9CB6-F103FCE648F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
