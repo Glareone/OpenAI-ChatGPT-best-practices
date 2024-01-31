@@ -7,6 +7,9 @@ OpenAI and ChatGPT repo
 4. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
 5. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
 
+## Machine Learning
+1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
+
 ## My LinkedIn Posts
 1. [GenAI. Where could be applied. Post 1.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013300/GenAI.Fields.Post.1.pdf)  
 2. [GenAI in Application Refactoring field, Slides.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013311/LinkedIn.post.day.2.compressed.pdf)  
