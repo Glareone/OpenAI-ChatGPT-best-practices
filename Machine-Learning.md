@@ -3,7 +3,7 @@ This document explains concepts and ideas behind Machine Learning and its types.
 
 ### Machine Learning Types
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/aedb3a78-9a83-407b-821c-67e553fe6faa)
-1. Regression. Regression is a form of supervised machine learning in which the label predicted by the model is a numeric value.
+1. Regression. Regression is a form of supervised machine learning in which the label predicted by the model is a numeric value. For example: based on historical data predict the number of sales of icecream for exact day based on weather, rain, humidity, day of the week, etc.  
 2. Classification. Classification is a form of supervised machine learning in which the label represents a categorization, or class. There are two common classification scenarios.
 3. Binary classification determines whether the observed item is (or isn't) an instance of a specific class. Binary classification models predict one of two mutually exclusive outcomes, like "Whether a patient is at risk for diabetes based on clinical metrics like weight, age, blood glucose level".  
 4. Multiclass classification. Multiclass classification extends binary classification to predict a label that represents one of multiple possible classes. For example, The species of a penguin (Adelie, Gentoo, or Chinstrap) based on its physical measurements.  
