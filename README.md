@@ -8,8 +8,9 @@ OpenAI and ChatGPT repo
 5. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
 
 ## Machine Learning
-1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)
-2. [How Deep Learning Works](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Deep-Learning-Works.md)
+1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
+    a. [Machine Learning lab by Microsoft](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)  
+3. [How Deep Learning Works](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Deep-Learning-Works.md)
 
 ## My LinkedIn Posts
 1. [GenAI. Where could be applied. Post 1.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013300/GenAI.Fields.Post.1.pdf)  
