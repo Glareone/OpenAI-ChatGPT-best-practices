@@ -28,3 +28,10 @@ Difference is the following: in Clustering ML you dont know the amount of classe
 3. Use the validation data you held back to test the model by predicting labels for the features.
 4. Compare the known actual labels in the validation dataset to the labels that the model predicted. Then aggregate the differences between the predicted and actual label values to calculate a metric that indicates how accurately the model predicted for the validation data.
 
+#### Evaluating Regression Model
+https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/4-regression
+
+### Binary Classification
+https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/5-binary-classification
+
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/9d9179b2-0963-4cea-ad4f-0ace89055dcf)
