@@ -35,3 +35,4 @@ https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning
 https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/5-binary-classification
 
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/9d9179b2-0963-4cea-ad4f-0ace89055dcf)
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/582da01f-8fa6-4404-9ff5-3ad982ec3f50)
