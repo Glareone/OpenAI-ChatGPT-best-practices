@@ -46,6 +46,9 @@ https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning
 ## Clustering
 https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/7-clustering
 
+![K-Means Algorithm](https://learn.microsoft.com/en-us/training/wwl-data-ai/fundamentals-machine-learning/media/clustering.gif)
+
+
 One of the most commonly used algorithms is K-Means clustering, which consists of the following steps:
 
 1. The feature (x) values are vectorized to define n-dimensional coordinates (where n is the number of features). In the flower example, we have two features: number of leaves (x1) and number of petals (x2). So, the feature vector has two coordinates that we can use to conceptually plot the data points in two-dimensional space ([x1,x2])
