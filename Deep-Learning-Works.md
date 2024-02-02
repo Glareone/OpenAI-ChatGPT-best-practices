@@ -1,4 +1,5 @@
-# How Deep Learning Works
+# Deep Learning
+# How Learn Process Works
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/632cd97c-c2cc-4354-aea8-d640184d624d)  
 
 1. The training and validation datasets are defined, and the training features are fed into the input layer.
