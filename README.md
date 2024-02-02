@@ -1,12 +1,13 @@
-![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/68a78fdf-7699-4c46-b975-15ab39c21cb1)OpenAI and ChatGPT repo
+OpenAI and ChatGPT repo
 
 ## Theoretical Part. Table of Content
 0. [Six Principles of responsible AI]()
-1. [What is ChatGPT Doing. and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/?fbclid=IwAR0eV1C7bPYQeEX0BbmqR_8zAFTgf4S5q-bEXoG3ZK7fmxgMICj-QqW6ZWM)
-2. [LLM UseCase in Google. Sorting Optimization](https://www.artisana.ai/articles/googles-deepmind-ai-shatters-records-with-a-70-faster-sorting-algorithm)
-3. [Embeddings. Words to Vector. Useful in Search Scenarios and for Cognitive Search](https://platform.openai.com/docs/api-reference/embeddings/object)
-4. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
-5. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
+1. [Trusted AI Framework]
+2. [What is ChatGPT Doing. and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/?fbclid=IwAR0eV1C7bPYQeEX0BbmqR_8zAFTgf4S5q-bEXoG3ZK7fmxgMICj-QqW6ZWM)
+3. [LLM UseCase in Google. Sorting Optimization](https://www.artisana.ai/articles/googles-deepmind-ai-shatters-records-with-a-70-faster-sorting-algorithm)
+4. [Embeddings. Words to Vector. Useful in Search Scenarios and for Cognitive Search](https://platform.openai.com/docs/api-reference/embeddings/object)
+5. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
+6. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
 
 ## Machine Learning
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
@@ -96,7 +97,7 @@ Achieving transparency helps the team understand:
 A data holder is obligated to protect the data in an AI system. Privacy and security are an integral part of this system.  
 Personal data needs to be secured, and access to it shouldn't compromise an individual's privacy  
 
-## Responsible AI Framework
+## Trusted AI framework
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/ef487cb5-5bdd-4eaa-8c1e-d984ad5d7b9e)
 
 
