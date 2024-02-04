@@ -23,7 +23,8 @@ OpenAI and ChatGPT repo
 3. [Legal problems with AI.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013316/Legal.problems.with.AI.pdf)  
 4. [Paradigms: Rag, Self-RAG, Re-Ranking RAG, FLARE v.2.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14037439/Rag.Self-RAG.FLARE.Re-Ranking.pdf)  
 5. [Working with opinionated requests. S2A, RLHF, RLAIF.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14050997/Post.5.pdf)  
-6. [Multi-Modal RAG and its features.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14077737/Post.6.pdf)  
+6. [Multi-Modal RAG and its features.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14077737/Post.6.pdf)   
+7. [Measuring the GenAI Quality.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14156446/post.7.with.add.slides.pdf)  
 
 
 ## Workshops.
