@@ -25,9 +25,27 @@ Tokenization is the first step in Natural Language Processing is to split your c
 * n-grams are multi-term phrases such as "I have" or "he walked". A single word phrase is a unigram, a two-word phrase is a bi-gram, a three-word phrase is a tri-gram, and so on. By considering words as groups, a machine learning model can make better sense of the text.
 * Stemming is a technique in which algorithms are applied to consolidate words before counting them, so that words with the same root, like "power", "powered", and "powerful", are interpreted as being the same token.
 
-## TF-IDF. Term Frequency - inverse document frequency  
+### Key phrase extraction
+Key phrase extraction identifies the main points from text.  
+
+```"We had dinner here for a birthday celebration and had a fantastic experience. We were greeted by a friendly hostess and taken to our table right away. The ambiance was relaxed, the food was amazing, and service was terrific. If you like great food and attentive service, you should try this place."```
+
+Key phrase extraction can provide some context to this review by extracting the following phrases:
+* birthday celebration
+* fantastic experience
+* friendly hostess
+* great food
+* attentive service
+* dinner
+* table
+* ambiance
+* place
+
+## Techniques
+### TF-IDF. Term Frequency - inverse document frequency  
 It's a common technique in which a score is calculated based on how often a word or term appears in one document compared to its more general frequency across the entire collection of documents.
 
-## ML Logistic Regression for text classification. 
+### ML Logistic Regression for text classification. 
 Another useful text analysis technique is to use a classification algorithm, such as logistic regression, to train a machine learning model that classifies text based on a known set of categorizations
 * Can be useful in sentiment analysis and\or opinion mining.
+
