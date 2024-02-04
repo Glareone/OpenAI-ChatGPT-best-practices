@@ -12,12 +12,12 @@ OpenAI and ChatGPT repo
 8. [Computer Vision. Cognitive. AI Face](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Computer-Vision.md)
 9. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)  
 
-## Machine Learning
+## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
     a. [Machine Learning lab by Microsoft](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)  
 3. [How Deep Learning Works](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Deep-Learning-Works.md)
 
-## My LinkedIn Posts
+## My LinkedIn Posts & Presentations
 1. [GenAI. Where could be applied. Post 1.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013300/GenAI.Fields.Post.1.pdf)  
 2. [GenAI in Application Refactoring field, Slides.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013311/LinkedIn.post.day.2.compressed.pdf)  
 3. [Legal problems with AI.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14013316/Legal.problems.with.AI.pdf)  
@@ -27,7 +27,7 @@ OpenAI and ChatGPT repo
 7. [Measuring the GenAI Quality.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14156446/post.7.with.add.slides.pdf)  
 
 
-## Workshops.
+## My Workshops
 1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)  
 2. [Online Workshop. ChatGPT -> Azure Function -> PowerAutomate. Run 2.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13213425/Workshop.Introduction.v.3.pptx)
 3. [Online Workshop. Run 3. Deep Learning -> Prompting -> ChatGPT -> Azure Function -> PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368718/Workshop.Introduction.v.4.FINAL.pptx)
