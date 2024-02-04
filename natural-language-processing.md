@@ -16,3 +16,7 @@ Tokenization is the first step in Natural Language Processing is to split your c
 
 ## TF-IDF. Term Frequency - inverse document frequency  
 It's a common technique in which a score is calculated based on how often a word or term appears in one document compared to its more general frequency across the entire collection of documents.
+
+## ML Logistic Regression for text classification. 
+Another useful text analysis technique is to use a classification algorithm, such as logistic regression, to train a machine learning model that classifies text based on a known set of categorizations
+* Can be useful in sentiment analysis and\or opinion mining.
