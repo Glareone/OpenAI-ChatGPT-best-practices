@@ -59,6 +59,9 @@ One of the most commonly used algorithms is K-Means clustering, which consists o
 6. The centroid movement and cluster reallocation steps are repeated until the clusters become stable or a predetermined maximum number of iterations is reached.
 
 ## CNN - Convolutional Neural Network
+* CNN architectures usually include multiple convolutional filter layers and additional layers to reduce the size of feature maps, constrain the extracted values, and otherwise manipulate the feature values. These layers have been omitted in this simplified example to focus on the key concept, which is that filters are used to extract numeric features from images, which are then used in a neural network to predict image labels.
+* CNNs have been at the core of computer vision solutions for many years. While they're commonly used to solve image classification problems as described previously, they're also the basis for more complex computer vision models. For example, object detection models combine CNN feature extraction layers with the identification of regions of interest in images to locate multiple classes of object in the same image.
+
 ![image](https://learn.microsoft.com/en-us/training/wwl-data-ai/analyze-images-computer-vision/media/convolutional-neural-network.png)  
 
 1. Images with known labels (for example, 0: apple, 1: banana, or 2: orange) are fed into the network to train the model.  
