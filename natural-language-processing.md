@@ -1,4 +1,4 @@
-# NLP. Natural Language Processing
+# NLP. Natural Language Processing https://language.cognitive.azure.com
 
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/17afb903-5024-4ae3-820f-e6840bda69f5)
 **Common NLP tasks supported by language models include:**
