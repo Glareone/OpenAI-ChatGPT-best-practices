@@ -1,6 +1,13 @@
 # NLP. Natural Language Processing
 
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/17afb903-5024-4ae3-820f-e6840bda69f5)
+**Common NLP tasks supported by language models include:**
+
+* Text analysis, such as extracting key terms or identifying named entities in text.
+* Sentiment analysis and opinion mining to categorize text as positive or negative.
+* Machine translation, in which text is automatically translated from one language to another.
+* Summarization, in which the main points of a large body of text are summarized.
+* Conversational AI solutions such as bots or digital assistants in which the language model can interpret natural language input and return an appropriate response.
 
 ## Tokenization
 Tokenization is the first step in Natural Language Processing is to split your corpus (Text Body) onto Tokens. In simplest scenario each token equals to one word, but in reality it's not that easy:  
