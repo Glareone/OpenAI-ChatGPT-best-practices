@@ -1,4 +1,7 @@
 # Azure AI Speech Service  
+## Code Example from Microsoft
+https://github.com/Azure-Samples/cognitive-services-speech-sdk
+
 ## Speech to text API
 * Based on the Universal Language Model that was trained by Microsoft.
 
