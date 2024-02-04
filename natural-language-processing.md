@@ -1,4 +1,8 @@
 # NLP. Natural Language Processing
+
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/17afb903-5024-4ae3-820f-e6840bda69f5)
+
+## Tokenization
 Tokenization is the first step in Natural Language Processing is to split your corpus (Text Body) onto Tokens. In simplest scenario each token equals to one word, but in reality it's not that easy:  
 "we choose to go to the moon":
 1. we
