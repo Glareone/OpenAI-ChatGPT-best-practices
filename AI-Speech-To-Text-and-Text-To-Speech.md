@@ -1,4 +1,4 @@
-# Azure AI Speech Service  
+# Azure AI Speech Service  https://speech.microsoft.com/
 * Code Example from Microsoft - https://github.com/Azure-Samples/cognitive-services-speech-sdk
 * Azure Speech CLI - https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-overview
 
