@@ -9,7 +9,8 @@ OpenAI and ChatGPT repo
 5. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
 6. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)  
 7. [Transformers. Embeddings. Foundational Model](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Transformers-Embeddings-Foundational.md)
-8. [Computer Vision. Cognitive. AI Face](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Computer-Vision.md)  
+8. [Computer Vision. Cognitive. AI Face](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Computer-Vision.md)
+9. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)  
 
 ## Machine Learning
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
