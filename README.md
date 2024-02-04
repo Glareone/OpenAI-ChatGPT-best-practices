@@ -11,7 +11,8 @@ OpenAI and ChatGPT repo
 7. [Transformers. Embeddings. Foundational Model](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Transformers-Embeddings-Foundational.md)
 8. [Computer Vision. Cognitive. AI Face](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Computer-Vision.md)
 9. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)
-10. [Speech To Text. Text To Speech. Azure Services](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/AI-Speech-To-Text-and-Text-To-Speech.md)  
+10. [Speech To Text. Text To Speech. Azure Services](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/AI-Speech-To-Text-and-Text-To-Speech.md)
+11. [NLP. Natural Language Processing. Text Meaning and analysis. General ways how to](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/natural-language-processing.md)
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
