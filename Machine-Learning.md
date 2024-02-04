@@ -57,3 +57,19 @@ One of the most commonly used algorithms is K-Means clustering, which consists o
 4. Each centroid is moved to the center of the data points assigned to it based on the mean distance between the points.
 5. After the centroid is moved, the data points may now be closer to a different centroid, so the data points are reassigned to clusters based on the new closest centroid.
 6. The centroid movement and cluster reallocation steps are repeated until the clusters become stable or a predetermined maximum number of iterations is reached.
+
+## CNN - Convolutional Neural Network
+![image](https://learn.microsoft.com/en-us/training/wwl-data-ai/analyze-images-computer-vision/media/convolutional-neural-network.png)  
+
+1. Images with known labels (for example, 0: apple, 1: banana, or 2: orange) are fed into the network to train the model.  
+2. One or more layers of filters is used to extract features from each image as it is fed through the network. The filter kernels start with randomly assigned weights and generate arrays of numeric values called feature maps.  
+3. The feature maps are flattened into a single dimensional array of feature values.  
+4. The feature values are fed into a fully connected neural network.  
+5. The output layer of the neural network uses a softmax or similar function to produce a result that contains a probability value for each possible class, for example [0.2, 0.5, 0.3].  
+
+
+**Laplas Filter** to find edges in contract. used in model's education
+![image](https://learn.microsoft.com/en-us/training/wwl-data-ai/analyze-images-computer-vision/media/filter.gif)
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/7944b6d1-f884-4f2c-a572-f297328471ec)
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/170734f9-8381-41b0-942b-5e297235f677)  
+
