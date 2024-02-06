@@ -5,6 +5,17 @@
 3. Mitigate the harms at multiple layers in your solution to minimize their presence and impact, and ensure transparent communication about potential risks to users.
 4. Operate the solution responsibly by defining and following a deployment and operational readiness plan.
 
+### 1. Identify Potential Harms
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/7a2aa057-bd09-4877-8e6c-bae4a2736113)  
+
+1. Identify potential harms
+2. Prioritize identified harms
+3. Test and verify the prioritized harms
+4. Document and share the verified harms
+
+## Transparency Note
+https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?tabs=text
+
 ## Six Principles of Responsible AI
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/a5b28216-03a0-40ff-ae34-04f6ec6842b0)
 
