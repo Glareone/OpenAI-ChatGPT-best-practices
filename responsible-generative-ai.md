@@ -13,6 +13,17 @@
 3. Test and verify the prioritized harms
 4. Document and share the verified harms
 
+### 2: Prioritize the harms
+For each potential harm you have identified, assess the likelihood of its occurrence and the resulting level of impact if it does
+* The solution provides inaccurate cooking times, resulting in undercooked food that may cause illness.
+* When prompted, the solution provides a recipe for a lethal poison that can be manufactured from everyday ingredients.
+
+### 3: Test and verify the presence of harms
+Now that you have a prioritized list, you can test your solution to verify that the harms occur.
+
+### 4: Document and share details of harms
+When you have gathered evidence to support the presence of potential harms in the solution
+
 ## Transparency Note
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?tabs=text
 
