@@ -1,5 +1,9 @@
 # Language Knowledge Base https://language.cognitive.azure.com/
+## Question Answering Service as a part of Language Cognitive Service
 Allows you to upload knowledge base and enrich your bot with Question-Answer pairs.
+
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/62cec229-b018-45b9-b262-4da889005f7c)
+
 
 **Microsoft Lab could be found here: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/07-question-answering.html**
 
