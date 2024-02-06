@@ -58,63 +58,6 @@ OpenAI and ChatGPT repo
 5. [Semantic Kernel Pipeline](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/SemanticKernel.ConsoleApp/SemanticKernelPipeline.cs)
 
 # General Information
-## Six Principles of Responsible AI
-![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/a5b28216-03a0-40ff-ae34-04f6ec6842b0)
-
-**Ethical**
-From an ethical perspective, AI should:  
-    * Be fair and inclusive in its assertions  
-    * Be accountable for its decisions  
-    * Not discriminate or hinder different races, disabilities, or backgrounds  
-
-1. **Accountability**  
-Accountability is an essential pillar of responsible AI   
-    * The people who design and deploy an AI system need to be accountable for its actions and decisions, especially as we progress toward more autonomous systems  
-
-2. **Inclusiveness**  
-Inclusiveness mandates that AI should consider all human races and experiences  
-    * Where possible, organizations should use speech-to-text, text-to-speech, and visual recognition technology to empower people who have hearing, visual, and other impairments  
-
-3. **Reliability and safety**  
-For AI systems to be trusted, they need to be reliable and safe. It's important for a system to perform as it was originally designed and to respond safely to new situation  
-    * It should integrate A/B testing and champion/challenger methods into the evaluation process  
-
-**Explainable**  
-Explainability helps data scientists, auditors, and business decision makers ensure that AI systems can justify their decisions and how they reach their conclusions  
-    * A data scientist should be able to explain to a stakeholder how they achieved certain levels of accuracy and what influenced the outcome  
-    * A business decision maker needs to gain trust by providing a transparent model
-      
-**Explainability tools**
-Microsoft has developed [InterpretML](https://interpret.ml/), an open-source toolkit that helps organizations achieve model explainability. It supports glass-box and black-box models:  
-    * Glass-box models are interpretable because of their structure. For these models, Explainable Boosting Machine (EBM) provides the state of the algorithm based on a decision tree or linear models  
-    * Black-box models are more challenging to interpret because of a complex internal structure, the neural network. Explainers like local interpretable model-agnostic explanations (LIME) or SHapley Additive exPlanations (SHAP) interpret these models by analyzing the relationship between the input and output    
-[Fairlearn](https://fairlearn.org/) is an Azure Machine Learning integration and an open-source toolkit for the SDK and the AutoML graphical user interface
-
-4. **Fairness** [AI Fairness checklist](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t6dA)  
-Fairness is a core ethical principle that all humans aim to understand and apply.  
-This principle is even more important when AI systems are being developed.  
-Key checks and balances need to make sure that the system's decisions don't discriminate against, or express a bias toward, a group or individual based on gender, race, sexual orientation, or religion.  
-
-5. **Transparency**
-Achieving transparency helps the team understand:
-
-    * The data and algorithms that were used to train the model.
-    * The transformation logic that was applied to the data.
-    * The final model that was generated.
-    * The model's associated assets.
-
-6. **Privacy and security** [differential privacy in ML](https://learn.microsoft.com/en-us/azure/machine-learning/concept-differential-privacy)
-A data holder is obligated to protect the data in an AI system. Privacy and security are an integral part of this system.  
-Personal data needs to be secured, and access to it shouldn't compromise an individual's privacy  
-
-## Trusted AI framework
-![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/ef487cb5-5bdd-4eaa-8c1e-d984ad5d7b9e)
-
-
-## Integration with PowerAutomate & PowerApp
-Main info:
-1. [PowerApp integration](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerApp-Integration.md)  
-2. [PowerAutomate integration](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/PowerAutomate-Integration.md)  
 
 #### 1: PowerAutomate. React on manual trigger  
 <img width="1015" alt="image" src="https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/57421682-1207-4b76-897a-0814c40a33dc">   
