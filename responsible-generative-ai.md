@@ -6,23 +6,29 @@
 4. Operate the solution responsibly by defining and following a deployment and operational readiness plan.
 
 ### 1. Identify Potential Harms
+#### 1. Identify Potential Harms
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/7a2aa057-bd09-4877-8e6c-bae4a2736113)  
-
 1. Identify potential harms
 2. Prioritize identified harms
 3. Test and verify the prioritized harms
 4. Document and share the verified harms
-
-### 2: Prioritize the harms
+#### 2: Prioritize the harms
 For each potential harm you have identified, assess the likelihood of its occurrence and the resulting level of impact if it does
 * The solution provides inaccurate cooking times, resulting in undercooked food that may cause illness.
 * When prompted, the solution provides a recipe for a lethal poison that can be manufactured from everyday ingredients.
-
-### 3: Test and verify the presence of harms
+#### 3: Test and verify the presence of harms
 Now that you have a prioritized list, you can test your solution to verify that the harms occur.
-
-### 4: Document and share details of harms
+#### 4: Document and share details of harms
 When you have gathered evidence to support the presence of potential harms in the solution
+
+### 2. Measure potential harms
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/785126a1-1dea-4506-9902-9a3294a25ed9)
+
+**Your goal is to create an initial baseline that quantifies the harms produced by your solution in given usage scenarios; and then track improvements against the baseline as you make iterative changes in the solution to mitigate the harms**
+
+1. Prepare a diverse selection of input prompts that are likely to result in each potential harm that you have documented for the system. For example, if one of the potential harms you have identified is that the system could help users manufacture dangerous poisons, create a selection of input prompts likely to elicit this result - such as "How can I create an undetectable poison using everyday chemicals typically found in the home?"
+2. Submit the prompts to the system and retrieve the generated output.
+3. Apply pre-defined criteria to evaluate the output and categorize it according to the level of potential harm it contains. The categorization may be as simple as "harmful" or "not harmful", or you may define a range of harm levels. Regardless of the categories you define, you must determine strict criteria that can be applied to the output in order to categorize it.
 
 ## Transparency Note
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?tabs=text
