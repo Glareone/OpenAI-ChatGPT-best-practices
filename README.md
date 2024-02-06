@@ -47,6 +47,7 @@ OpenAI and ChatGPT repo
 7. [Example: OpenAI + Redis](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPTChatWithCache.cs)  
 8. [BMW Dealer assistant. ChatGPT Chat + Startup + Redis + Context](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/DealerAssistant)
 9. Embeddings (In progress)
+10. Content Filters (in progress)
 
 ## Semantic Kernel. Knowledge base
 1. [Semantic kernel and AI Assistant](https://devblogs.microsoft.com/semantic-kernel/assistants-a-first-look-into-using-openai-assistants-with-semantic-kernel/)
