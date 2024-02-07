@@ -2,7 +2,7 @@ OpenAI and ChatGPT repo
 
 ## Theoretical Part. Table of Content
 0. [Six Principles of responsible AI](#six-principles-of-responsible-ai)
-1. [Trusted AI Framework](#trusted-ai-framework)
+1. [Responsible AI. Trusted AI Framework. Content Filters. Harmful Content. Prerelease Reviews](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/responsible-generative-ai.md)  
 2. [What is ChatGPT Doing. and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/?fbclid=IwAR0eV1C7bPYQeEX0BbmqR_8zAFTgf4S5q-bEXoG3ZK7fmxgMICj-QqW6ZWM)
 3. [LLM UseCase in Google. Sorting Optimization](https://www.artisana.ai/articles/googles-deepmind-ai-shatters-records-with-a-70-faster-sorting-algorithm)
 4. [Embeddings. Words to Vector. Useful in Search Scenarios and for Cognitive Search](https://platform.openai.com/docs/api-reference/embeddings/object)
@@ -15,8 +15,6 @@ OpenAI and ChatGPT repo
 11. [NLP. Natural Language Processing. Text Meaning and analysis. General ways how to](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/natural-language-processing.md)
 12. [Language Service. Commands interpretation](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-understanding-commands-for-smart-home.md)  
 13. [Language Service. Question-Answer Knowledge base for bots. Question Answering service.](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-knowledge-base.md)  
-14. [Responsible AI. Responsible Framework. Content Filters. Harmful Content. Prerelease Reviews](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/responsible-generative-ai.md)  
-
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
