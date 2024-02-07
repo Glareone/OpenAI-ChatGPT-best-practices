@@ -13,8 +13,10 @@ OpenAI and ChatGPT repo
 9. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)
 10. [Speech To Text. Text To Speech. Azure Services](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/AI-Speech-To-Text-and-Text-To-Speech.md)
 11. [NLP. Natural Language Processing. Text Meaning and analysis. General ways how to](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/natural-language-processing.md)
-12. [Question-Answer Knowledge base for bots. Question Answering service as a part of Language Cognitive Service](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-knowledge-base.md)
-13. [Responsible AI. Responsible Framework. Content Filters. Harmful Content. Prerelease Reviews](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/responsible-generative-ai.md)
+12. [Language Service. Commands interpretation](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-understanding-commands-for-smart-home.md)  
+13. [Language Service. Question-Answer Knowledge base for bots. Question Answering service.](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-knowledge-base.md)  
+14. [Responsible AI. Responsible Framework. Content Filters. Harmful Content. Prerelease Reviews](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/responsible-generative-ai.md)  
+
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
