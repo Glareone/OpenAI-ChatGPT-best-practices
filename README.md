@@ -11,10 +11,11 @@ OpenAI and ChatGPT repo
 7. [Transformers. Embeddings. Foundational Model](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Transformers-Embeddings-Foundational.md)
 8. [Computer Vision. Cognitive. AI Face](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Computer-Vision.md)
 9. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)
-10. [Azure AI Speech. Speech To Text. Text To Speech. Azure Services](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/AI-Speech-To-Text-and-Text-To-Speech.md)
-11. [Natural Language Processing(NLP). Text Meaning and analysis. General ways how to](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/natural-language-processing.md)
-12. [Azure Language Service. Commands interpretation](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-understanding-commands-for-smart-home.md)  
-13. [Azure Language Service. Question-Answer Knowledge base for bots. Question Answering service.](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-knowledge-base.md)  
+10. [Azure AI Search](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/azure-ai-search.md)  
+11. [Azure AI Speech. Speech To Text. Text To Speech. Azure Services](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/AI-Speech-To-Text-and-Text-To-Speech.md)
+12. [Natural Language Processing(NLP). Text Meaning and analysis. General ways how to](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/natural-language-processing.md)
+13. [Azure Language Service. Commands interpretation](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-understanding-commands-for-smart-home.md)  
+14. [Azure Language Service. Question-Answer Knowledge base for bots. Question Answering service.](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-knowledge-base.md)  
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
