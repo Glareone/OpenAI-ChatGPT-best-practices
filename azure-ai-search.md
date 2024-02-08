@@ -2,6 +2,10 @@
 **99.9% uptime SLA**  
 Service built on top of **Apache Lucene**  
 
+## Data Representation in Search Storage
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/d2dd8509-e844-47af-a3eb-0daa98043613)
+
+
 Azure AI Search provides the infrastructure and tools to create search solutions that extract data from various structured, semi-structured, and non-structured documents.
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/77d52141-5f4e-4996-9def-1e14051fa344)
 
