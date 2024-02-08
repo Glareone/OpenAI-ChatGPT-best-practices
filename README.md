@@ -8,7 +8,7 @@ OpenAI and ChatGPT repo
 4. [Embeddings. Words to Vector. Useful in Search Scenarios and for Cognitive Search](https://platform.openai.com/docs/api-reference/embeddings/object)
 5. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
 6. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
-7. [Cognitive Search. AI Enrichment. Build-in Skills](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/azure-ai-search.md)  
+7. [Cognitive Search. Indexers. AI Enrichment. Build-in Skills](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/azure-ai-search.md)  
 8. [Transformers. Embeddings. Foundational Model](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Transformers-Embeddings-Foundational.md)
 9. [Computer Vision. Cognitive. AI Face](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Computer-Vision.md)
 10. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)  
