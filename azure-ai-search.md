@@ -28,3 +28,7 @@ Most indexers support change detection, which makes data refresh a simpler exerc
 Indexers also support AI enrichment.  
 You can attach a skillset that applies a sequence of AI skills to enrich the data, making it more searchable.  
 Optionally, enriched content can be sent to a knowledge store, which stores output from an AI enrichment pipeline in tables and blobs in Azure Storage for independent analysis or downstream processing.  
+
+## Built In Skills. Image processing skills: creates text representations of image content, making it searchable
+* Key Phrase Extraction: uses a pre-trained model to detect important phrases based on term placement, linguistic rules, proximity to other terms, and how unusual the term is within the source data.
+* Text Translation Skill: uses a pre-trained model to translate the input text into various languages for normalization or localization use cases.
