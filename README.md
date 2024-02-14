@@ -80,11 +80,6 @@ OpenAI and ChatGPT repo
 ![image](https://user-images.githubusercontent.com/4239376/230776405-8efeb6d9-07fd-42ec-95a9-90af3d168043.png)
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/c7dc2c4b-05f7-45f6-b7b1-970e1700861c)
 
-
-## Models
-![image](https://user-images.githubusercontent.com/4239376/231551873-fd5164ba-669c-433c-ba07-411f62474e06.png)
-![image](https://user-images.githubusercontent.com/4239376/231552079-18bd6e97-8861-4f08-8c2a-3644d7715bee.png)
-
 # LLM Orchestration. LangChain & Semantic Kernel
 ## Lang Chain
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/0d7221a7-fff5-4d3d-9eae-1473cf338f38)
