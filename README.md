@@ -63,6 +63,17 @@ OpenAI and ChatGPT repo
 4. [Semantic Function for Conversational Chat](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/SemanticKernel.ConsoleApp/SemanticFunctionForConversationalChat.cs)
 5. [Semantic Kernel Pipeline](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/SemanticKernel.ConsoleApp/SemanticKernelPipeline.cs)
 
+# Azure Search & Document Intelligence. Theoretical Part
+1. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
+2. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
+3. [Cognitive Search. Indexers. AI Enrichment. Build-in Skills](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/azure-ai-search.md)
+4. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)
+
+# Azure Cognitive Search & Document Intelligence. Practical Part
+1. Semantic Search (in progress)
+2. Document Intelligence (in progress)
+3. Semantic Search vs Document Intelligence (in progress)
+
 # General Information
 
 #### 1: PowerAutomate. React on manual trigger  
