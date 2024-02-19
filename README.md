@@ -37,6 +37,8 @@ OpenAI and ChatGPT repo
 2. [Online Workshop. ChatGPT -> Azure Function -> PowerAutomate. Run 2.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13213425/Workshop.Introduction.v.3.pptx)
 3. [Online Workshop. Run 3. Deep Learning -> Prompting -> ChatGPT -> Azure Function -> PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368718/Workshop.Introduction.v.4.FINAL.pptx)
 4. [Online+Offline Workshop for EHU University](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368730/EHU.Workshop.v.2.pptx)  
+5. [Talk #3. RAG, FLARE, S2A, RLHF, RLAIF, Self-RAG, Re-Ranking. Common approaches and their pros & cons](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14328529/GenAI.RAG.FLARE.Content.Filtering.pdf)  
+
 
 ## Practical Part. Table of Content
 1. [Example:ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
