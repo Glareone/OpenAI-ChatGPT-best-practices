@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPT.AzureFunction", "ChatGPT.AzureFunction.csproj", "{7E36811C-EB91-4CA2-B5D3-FA5E5F861223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E36811C-EB91-4CA2-B5D3-FA5E5F861223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E36811C-EB91-4CA2-B5D3-FA5E5F861223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E36811C-EB91-4CA2-B5D3-FA5E5F861223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E36811C-EB91-4CA2-B5D3-FA5E5F861223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9F37B66-2294-40B0-AA03-EF48B9983CA4}
+	EndGlobalSection
+EndGlobal

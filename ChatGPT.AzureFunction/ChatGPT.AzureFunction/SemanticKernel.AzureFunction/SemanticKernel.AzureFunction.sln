@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticKernel.AzureFunction", "SemanticKernel.AzureFunction.csproj", "{07E8D197-9240-411E-BA99-FD8ACFC393CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E8D197-9240-411E-BA99-FD8ACFC393CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E8D197-9240-411E-BA99-FD8ACFC393CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E8D197-9240-411E-BA99-FD8ACFC393CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E8D197-9240-411E-BA99-FD8ACFC393CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A24C081-1A08-4DDB-A1BC-A4AE09E82521}
+	EndGlobalSection
+EndGlobal
