@@ -15,7 +15,8 @@ OpenAI and ChatGPT repo
 11. [Azure AI Speech. Speech To Text. Text To Speech. Azure Services](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/AI-Speech-To-Text-and-Text-To-Speech.md)
 12. [Natural Language Processing(NLP). Text Meaning and analysis. General ways how to](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/natural-language-processing.md)
 13. [Azure Language Service. Commands interpretation](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-understanding-commands-for-smart-home.md)  
-14. [Azure Language Service. Question-Answer Knowledge base for bots. Question Answering service.](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-knowledge-base.md)  
+14. [Azure Language Service. Question-Answer Knowledge base for bots. Question Answering service.](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-knowledge-base.md)
+15. [Regression. Logistic and Linear Regression. Multiclass regression](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/regression-linear-and-logistic-regression.md)  
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
