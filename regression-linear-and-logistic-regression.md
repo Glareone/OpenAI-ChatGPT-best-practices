@@ -1,4 +1,5 @@
 # Regression. Linear and Logistic Regression
+[Lab. Create Regression Model with Azure ML Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html)  
 
 ## Difference between Linear and Logistic
 Logistic fits better in scenarios when you need to answer yes or no.
