@@ -11,3 +11,10 @@ Azure AI Vision supports multiple image analysis capabilities, including:
 * Azure AI Face can detect faces that are partially obscured. But it works not ideally:
 <img width="309" alt="image" src="https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/23d8277f-51fa-447b-b1f8-2a6bb676262f">
 
+# Custom Vision
+<details>
+<summary>Lab. Build an object detector with Custom Vision</summary>
+
+https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/get-started-build-detector
+
+</details>
