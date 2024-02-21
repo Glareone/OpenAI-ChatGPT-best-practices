@@ -10,7 +10,7 @@ OpenAI and ChatGPT repo
 6. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
 7. [Cognitive Search. Indexers. AI Enrichment. Build-in Skills](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/azure-ai-search.md)  
 8. [Transformers. Embeddings. Foundational Model](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Transformers-Embeddings-Foundational.md)
-9. [Computer Vision. Cognitive. AI Face](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Computer-Vision.md)
+9. [Computer Vision. Cognitive. AI Face. Custom Vision](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Computer-Vision.md)
 10. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)  
 11. [Azure AI Speech. Speech To Text. Text To Speech. Azure Services](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/AI-Speech-To-Text-and-Text-To-Speech.md)
 12. [Natural Language Processing(NLP). Text Meaning and analysis. General ways how to](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/natural-language-processing.md)
