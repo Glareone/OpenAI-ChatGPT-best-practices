@@ -52,7 +52,8 @@ OpenAI and ChatGPT repo
 8. [BMW Dealer assistant. ChatGPT Chat + Startup + Redis + Context](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/DealerAssistant)
 9. Embeddings (In progress)
 10. Content Filters (in progress)
-11. [OpenAI straightforward examples](https://platform.openai.com/examples)  
+11. [OpenAI straightforward examples](https://platform.openai.com/examples)
+12. Bot using Chatbot Framework SDK (in progress) https://learn.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-create-bot?view=azure-bot-service-4.0&branch=Ignite2018&tabs=csharp%2Cvs
 
 ## Semantic Kernel. Knowledge base
 1. [Semantic kernel and AI Assistant](https://devblogs.microsoft.com/semantic-kernel/assistants-a-first-look-into-using-openai-assistants-with-semantic-kernel/)
@@ -76,7 +77,6 @@ OpenAI and ChatGPT repo
 3. Semantic Search vs Document Intelligence (in progress)
 
 # General Information
-
 #### 1: PowerAutomate. React on manual trigger  
 <img width="1015" alt="image" src="https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/57421682-1207-4b76-897a-0814c40a33dc">   
 
