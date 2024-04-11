@@ -77,6 +77,10 @@ OpenAI and ChatGPT repo
 3. Semantic Search vs Document Intelligence (in progress)
 
 # General Information
+#### 0: RAG. Cheatsheet
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/2b8ca392-dc0e-4ebc-9f85-5bcbb8bf27bb)
+
+
 #### 1: PowerAutomate. React on manual trigger  
 <img width="1015" alt="image" src="https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/57421682-1207-4b76-897a-0814c40a33dc">   
 
@@ -101,5 +105,4 @@ OpenAI and ChatGPT repo
 ## Semantic Kernel
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/f9ed16f2-80ba-42c9-b6fc-50b488cee8d2)  
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/86d0f7e2-cf7f-4a2c-93a1-a97427498ed0)  
-
 
