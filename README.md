@@ -53,10 +53,11 @@ OpenAI and ChatGPT repo
 6. [OpenAI + PowerAutomate Workshop by me.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11840513/Workshop.Introduction.pptx)  
 7. [Example: OpenAI + Redis](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPTChatWithCache.cs)  
 8. [BMW Dealer assistant. ChatGPT Chat + Startup + Redis + Context](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/DealerAssistant)
-9. Embeddings (In progress)
-10. Content Filters (in progress)
-11. [OpenAI straightforward examples](https://platform.openai.com/examples)
-12. Bot using Chatbot Framework SDK (in progress) https://learn.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-create-bot?view=azure-bot-service-4.0&branch=Ignite2018&tabs=csharp%2Cvs
+9. [Get Embedding](https://github.com/Glareone/OpenAI-ChatGPT-best-practices/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/Embedding.cs)
+10. [Form Recognizer Cognitive Service](https://github.com/Glareone/OpenAI-ChatGPT-best-practices/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/FormRecognizer.cs)
+11. Content Filters (in progress)
+12. [OpenAI straightforward examples](https://platform.openai.com/examples)
+13. Bot using Chatbot Framework SDK (in progress) https://learn.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-create-bot?view=azure-bot-service-4.0&branch=Ignite2018&tabs=csharp%2Cvs
 
 ## Semantic Kernel. Knowledge base
 1. [Semantic kernel and AI Assistant](https://devblogs.microsoft.com/semantic-kernel/assistants-a-first-look-into-using-openai-assistants-with-semantic-kernel/)
