@@ -33,7 +33,9 @@ OpenAI and ChatGPT repo
 7. [Measuring the GenAI Quality.pdf](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14156446/post.7.with.add.slides.pdf)
 8. [LLM leveraging RLHF in code review](https://www.linkedin.com/posts/aleksei-kolesnikov-aa199217b_criticgpt-activity-7212381032992432128-OKvG)  
 9. [Everything of Thoughts (XoT). All modern techniques in one place](https://www.linkedin.com/feed/update/urn:li:activity:7209092335526158336)  
-10. [Non deterministic embedding results](https://www.linkedin.com/posts/aleksei-kolesnikov-aa199217b_ai-embeddings-openai-activity-7208369707937067009-gTkJ)  
+10. [Non deterministic embedding results](https://www.linkedin.com/posts/aleksei-kolesnikov-aa199217b_ai-embeddings-openai-activity-7208369707937067009-gTkJ)
+11. [AI Search vs PostgreSQL with pgvector in PROD](https://github.com/user-attachments/files/16404873/Post.10.-.AI.Search.vs.PostgreSQL.pdf)  
+
 
 
 ## My Workshops
