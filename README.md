@@ -35,10 +35,8 @@ OpenAI and ChatGPT repo
 9. [Everything of Thoughts (XoT). All modern techniques in one place](https://www.linkedin.com/feed/update/urn:li:activity:7209092335526158336)  
 10. [Non deterministic embedding results](https://www.linkedin.com/posts/aleksei-kolesnikov-aa199217b_ai-embeddings-openai-activity-7208369707937067009-gTkJ)
 11. [AI Search vs PostgreSQL with pgvector in PROD](https://github.com/user-attachments/files/16404873/Post.10.-.AI.Search.vs.PostgreSQL.pdf)
-12. [Prod-Ready LLM Solutions. Cook Book.](https://github.com/user-attachments/files/16471905/post.12.pdf)  
-
-
-
+12. [Prod-Ready LLM Solutions. Cook Book.](https://github.com/user-attachments/files/16471905/post.12.pdf)
+13. Crew.AI. Agents in LLM Applications (In Progress)
 
 ## My Workshops
 1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)  
@@ -46,7 +44,6 @@ OpenAI and ChatGPT repo
 3. [Online Workshop. Run 3. Deep Learning -> Prompting -> ChatGPT -> Azure Function -> PowerAutomate](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368718/Workshop.Introduction.v.4.FINAL.pptx)
 4. [Online+Offline Workshop for EHU University](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368730/EHU.Workshop.v.2.pptx)  
 5. [Talk #3. RAG, FLARE, S2A, RLHF, RLAIF, Self-RAG, Re-Ranking. Common approaches and their pros & cons](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14328529/GenAI.RAG.FLARE.Content.Filtering.pdf)  
-
 
 ## Practical Part. Table of Content
 1. [Example:ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
