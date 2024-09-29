@@ -17,7 +17,8 @@ OpenAI and ChatGPT repo
 13. [Azure Language Service. Commands interpretation](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-understanding-commands-for-smart-home.md)  
 14. [Azure Language Service. Question-Answer Knowledge base for bots. Question Answering service.](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/language-knowledge-base.md)
 15. [Regression. Logistic and Linear Regression. Multiclass regression](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/regression-linear-and-logistic-regression.md)
-16. [Provision AI Services using containers in AKS, ACI, or even locally](https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use-with-ai-services/3-use-ai-services-container)  
+16. [Provision AI Services using containers in AKS, ACI, or even locally](https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use-with-ai-services/3-use-ai-services-container)
+17. [Composed Document Intelligense Models. Case if you need to analyze several doc types](https://learn.microsoft.com/en-us/training/modules/create-composed-form-recognizer-model)  
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
