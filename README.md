@@ -23,7 +23,8 @@ OpenAI and ChatGPT repo
 2. [Vision. Train a Custom Model using COCO](https://learn.microsoft.com/en-us/training/modules/custom-model-ai-vision-image-classification/3-create-custom-project)
 3. [Deploy AI Services in Containers, in AKS, ACI, or even locally](https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use-with-ai-services)
 4. [Analyze Video Indexer. Widgets Integration and API](https://learn.microsoft.com/en-us/training/modules/analyze-video/4-use-video-indexer-widgets-apis)
-5. [Semantic Ranking configuration in AI Search Index](https://learn.microsoft.com/en-us/training/modules/use-semantic-search/3-set-up-semantic-search)  
+5. [Semantic Ranking configuration in AI Search Index](https://learn.microsoft.com/en-us/training/modules/use-semantic-search/3-set-up-semantic-search)
+6. [Knowledge Store & Knowledge Mining with AI Search](https://learn.microsoft.com/en-us/training/modules/create-knowledge-store-azure-cognitive-search/1-introduction)    
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
