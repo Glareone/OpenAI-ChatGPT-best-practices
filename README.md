@@ -21,7 +21,8 @@ OpenAI and ChatGPT repo
 ## Azure Learn Useful Materials
 1. [Composed Document Intelligense Models. Case if you need to analyze several doc types](https://learn.microsoft.com/en-us/training/modules/create-composed-form-recognizer-model)
 2. [Vision. Train a Custom Model using COCO](https://learn.microsoft.com/en-us/training/modules/custom-model-ai-vision-image-classification/3-create-custom-project)
-3. [Deploy AI Services in Containers, in AKS, ACI, or even locally](https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use-with-ai-services)  
+3. [Deploy AI Services in Containers, in AKS, ACI, or even locally](https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use-with-ai-services)
+4. [Analyze Video Indexer. Widgets Integration and API](https://learn.microsoft.com/en-us/training/modules/analyze-video/4-use-video-indexer-widgets-apis)  
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
