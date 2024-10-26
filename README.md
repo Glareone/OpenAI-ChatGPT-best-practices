@@ -53,6 +53,9 @@ OpenAI and ChatGPT repo
 4. [Online+Offline Workshop for EHU University](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/13368730/EHU.Workshop.v.2.pptx)  
 5. [Talk #3. RAG, FLARE, S2A, RLHF, RLAIF, Self-RAG, Re-Ranking. Common approaches and their pros & cons](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/14328529/GenAI.RAG.FLARE.Content.Filtering.pdf)  
 
+## Extra materials
+1. [Vector Database selection & comparison. VectorDB](https://superlinked.com/vector-db-comparison)  
+
 ## Practical Part. Table of Content
 1. [Example:ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
 2. [Example: Azure Function with ChatGPT (completion and chat-completion)](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction)  
