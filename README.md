@@ -55,6 +55,7 @@ OpenAI and ChatGPT repo
 
 ## Extra materials
 1. [Vector Database selection & comparison. VectorDB](https://superlinked.com/vector-db-comparison)  
+2. [Transformer Explainer. Transformer Explainer is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work](https://github.com/poloclub/transformer-explainer)  
 
 ## Practical Part. Table of Content
 1. [Example:ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
