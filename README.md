@@ -72,6 +72,10 @@ OpenAI and ChatGPT repo
 12. [OpenAI straightforward examples](https://platform.openai.com/examples)
 13. Bot using Chatbot Framework SDK (in progress) https://learn.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-create-bot?view=azure-bot-service-4.0&branch=Ignite2018&tabs=csharp%2Cvs
 
+# Semantic Kernel
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/f9ed16f2-80ba-42c9-b6fc-50b488cee8d2)  
+![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/86d0f7e2-cf7f-4a2c-93a1-a97427498ed0)  
+
 ## Semantic Kernel. Knowledge base
 1. [Semantic kernel and AI Assistant](https://devblogs.microsoft.com/semantic-kernel/assistants-a-first-look-into-using-openai-assistants-with-semantic-kernel/)
 
@@ -82,13 +86,18 @@ OpenAI and ChatGPT repo
 4. [Semantic Function for Conversational Chat](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/SemanticKernel.ConsoleApp/SemanticFunctionForConversationalChat.cs)
 5. [Semantic Kernel Pipeline](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/SemanticKernel.ConsoleApp/SemanticKernelPipeline.cs)
 
-# Azure Search & Document Intelligence. Theoretical Part
+# LangChain
+## LangChain using Golang
+1. General Examples (In Progress)
+
+# Azure
+## Azure Search & Document Intelligence. Theoretical Part
 1. [Cognitive Search. Video](https://www.youtube.com/watch?v=5z32NS4IG0w)
 2. [Cognitive Search. From Zero to Hero](https://www.youtube.com/watch?v=shT9-7AofKU&t=1s)
 3. [Cognitive Search. Indexers. AI Enrichment. Build-in Skills](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/azure-ai-search.md)
 4. [Document Intelligence](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Document-intelligence.md)
 
-# Azure Cognitive Search & Document Intelligence. Practical Part
+## Azure Cognitive Search & Document Intelligence. Practical Part
 1. Semantic Search (in progress)
 2. Document Intelligence (in progress)
 3. Semantic Search vs Document Intelligence (in progress)
@@ -97,13 +106,11 @@ OpenAI and ChatGPT repo
 #### 0: RAG. Cheatsheet
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/2b8ca392-dc0e-4ebc-9f85-5bcbb8bf27bb)
 
-
 #### 1: PowerAutomate. React on manual trigger  
 <img width="1015" alt="image" src="https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/57421682-1207-4b76-897a-0814c40a33dc">   
 
 #### 2: PowerAutomate. React on keyword mentioned  
 <img width="1101" alt="image" src="https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/cb134e8f-3c0c-4e0b-abe2-ff350570a6b5">  
-
 
 ### .Net OpenAI SDK
 .Net SDK (unofficial): https://github.com/Glareone/openai   
@@ -119,7 +126,5 @@ OpenAI and ChatGPT repo
 ## Lang Chain
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/0d7221a7-fff5-4d3d-9eae-1473cf338f38)
 
-## Semantic Kernel
-![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/f9ed16f2-80ba-42c9-b6fc-50b488cee8d2)  
-![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/86d0f7e2-cf7f-4a2c-93a1-a97427498ed0)  
+
 
