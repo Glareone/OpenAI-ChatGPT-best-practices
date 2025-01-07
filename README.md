@@ -70,7 +70,8 @@ OpenAI and ChatGPT repo
 10. [Form Recognizer Cognitive Service](https://github.com/Glareone/OpenAI-ChatGPT-best-practices/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/ChatGPT.AzureFunction/FormRecognizer.cs)
 11. Content Filters (in progress)
 12. [OpenAI straightforward examples](https://platform.openai.com/examples)
-13. Bot using Chatbot Framework SDK (in progress) https://learn.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-create-bot?view=azure-bot-service-4.0&branch=Ignite2018&tabs=csharp%2Cvs
+13. [Azure Bot Service & Chatbot Framework](https://github.com/Glareone/OpenAI-ChatGPT-best-practices/blob/main/Azure%20Bot%20Service.%20Usage/readme.md)
+14. [LangChain meets Go](https://github.com/Glareone/OpenAI-ChatGPT-best-practices/blob/main/Langchain%20meets%20Go/readme.md)
 
 # Semantic Kernel
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/f9ed16f2-80ba-42c9-b6fc-50b488cee8d2)  
