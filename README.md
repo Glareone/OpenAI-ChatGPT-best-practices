@@ -72,6 +72,7 @@ OpenAI and ChatGPT repo
 12. [OpenAI straightforward examples](https://platform.openai.com/examples)
 13. [Azure Bot Service & Chatbot Framework](https://github.com/Glareone/OpenAI-ChatGPT-best-practices/blob/main/Azure%20Bot%20Service.%20Usage/readme.md)
 14. [LangChain meets Go](https://github.com/Glareone/OpenAI-ChatGPT-best-practices/blob/main/Langchain%20meets%20Go/readme.md)
+15. TenzorZero Framework (In progress)
 
 # Semantic Kernel
 ![image](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/assets/4239376/f9ed16f2-80ba-42c9-b6fc-50b488cee8d2)  
