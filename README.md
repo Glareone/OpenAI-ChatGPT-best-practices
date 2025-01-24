@@ -80,6 +80,7 @@ OpenAI and ChatGPT repo
 
 ## Semantic Kernel. Knowledge base
 1. [Semantic kernel and AI Assistant](https://devblogs.microsoft.com/semantic-kernel/assistants-a-first-look-into-using-openai-assistants-with-semantic-kernel/)
+2. [Creative Writing Assistant with Semantic Kernel and .Net Aspire](https://devblogs.microsoft.com/semantic-kernel/guest-blog-creative-writing-assistant-a-multi-agent-app-sample-with-semantic-kernel-net-aspire/?ocid=semantic-kernel_eml_tnp_autoid150_title)
 
 ## SemanticKernel. Practical part
 1. [Initial Example](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/ChatGPT.AzureFunction/ChatGPT.AzureFunction/SemanticKernel.ConsoleApp/ShortIntentExtraction.cs)
