@@ -45,6 +45,9 @@ OpenAI and ChatGPT repo
 11. [AI Search vs PostgreSQL with pgvector in PROD](https://github.com/user-attachments/files/16404873/Post.10.-.AI.Search.vs.PostgreSQL.pdf)
 12. [Prod-Ready LLM Solutions. Cook Book.](https://github.com/user-attachments/files/16471905/post.12.pdf)
 13. Crew.AI. Agents in LLM Applications (In Progress)
+14. Pydantic data classes and how to manage the output format (In Progress)
+15. XML vs Markdown vs Json for tagging in prompting and metaprompting (In Progress)
+16. Crawlers for LLMs: https://python.langchain.com/v0.1/docs/use_cases/web_scraping/ , https://ai.gopubby.com/use-ai-to-scrape-almost-all-websites-easily-in-2025-f868adc41e0f, https://github.com/Skyvern-AI/skyvern, https://gotenberg.dev/docs/routes, https://jina.ai/reader, https://github.com/unclecode/crawl4ai, https://crawlee.dev/, https://github.com/bracesproul/site-rag/, https://www.firecrawl.dev, https://github.com/mishushakov/llm-scraper
 
 ## My Workshops
 1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)  
