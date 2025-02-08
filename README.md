@@ -48,6 +48,7 @@ OpenAI and ChatGPT repo
 14. Pydantic data classes and how to manage the output format (In Progress)
 15. XML vs Markdown vs Json for tagging in prompting and metaprompting (In Progress)
 16. Crawlers for LLMs: https://python.langchain.com/v0.1/docs/use_cases/web_scraping/ , https://ai.gopubby.com/use-ai-to-scrape-almost-all-websites-easily-in-2025-f868adc41e0f, https://github.com/Skyvern-AI/skyvern, https://gotenberg.dev/docs/routes, https://jina.ai/reader, https://github.com/unclecode/crawl4ai, https://crawlee.dev/, https://github.com/bracesproul/site-rag/, https://www.firecrawl.dev, https://github.com/mishushakov/llm-scraper
+17. Table extraction in RAG systems (In Progress)
 
 ## My Workshops
 1. [June 2023. My Workshop Presentation. Run 1.pptx](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/files/11951964/Workshop.Introduction.pptx)  
@@ -58,7 +59,8 @@ OpenAI and ChatGPT repo
 
 ## Extra materials
 1. [Vector Database selection & comparison. VectorDB](https://superlinked.com/vector-db-comparison)  
-2. [Transformer Explainer. Transformer Explainer is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work](https://github.com/poloclub/transformer-explainer)  
+2. [Transformer Explainer. Transformer Explainer is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work](https://github.com/poloclub/transformer-explainer)
+3. [Table extraction in RAG systems](https://ai.plainenglish.io/table-extraction-using-llms-unlocking-structured-data-from-documents-50cf21c98509)
 
 ## Practical Part. Table of Content
 1. [Example:ConsoleApp CommandGuess](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/tree/main/ChatGPT)  
