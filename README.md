@@ -20,15 +20,16 @@ OpenAI and ChatGPT repo
 
 ## Azure Learn Useful Materials
 1. [AI Search. Debug Search Issues](https://learn.microsoft.com/en-us/training/modules/maintain-azure-cognitive-search-solution/07-debug-search-issues-use-azure-portal)
-2. [AI Search. Performance and Monitoring](https://learn.microsoft.com/en-us/training/modules/maintain-azure-cognitive-search-solution/03-optimize-performance-of-azure-cognitive-search-solution)  
-3. [Composed Document Intelligense Models. Case if you need to analyze several doc types](https://learn.microsoft.com/en-us/training/modules/create-composed-form-recognizer-model)
-4. [Vision. Train a Custom Model using COCO](https://learn.microsoft.com/en-us/training/modules/custom-model-ai-vision-image-classification/3-create-custom-project)
-5. [Deploy AI Services in Containers, in AKS, ACI, or even locally](https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use-with-ai-services)
-6. [Analyze Video Indexer. Widgets Integration and API](https://learn.microsoft.com/en-us/training/modules/analyze-video/4-use-video-indexer-widgets-apis)
-7. [Semantic Ranking configuration in AI Search Index](https://learn.microsoft.com/en-us/training/modules/use-semantic-search/3-set-up-semantic-search)
-8. [Knowledge Store & Knowledge Mining with AI Search](https://learn.microsoft.com/en-us/training/modules/create-knowledge-store-azure-cognitive-search/1-introduction)
-9. [Integrate OpenAI into App. Useful Lab](https://learn.microsoft.com/en-us/training/modules/develop-applications-openai/3-integrate-app?pivots=csharp)
-10. [Host Mistral and other models in AI Hub](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral?tabs=mistral-large&pivots=programming-language-python)  
+2. [AI Search. Performance and Monitoring](https://learn.microsoft.com/en-us/training/modules/maintain-azure-cognitive-search-solution/03-optimize-performance-of-azure-cognitive-search-solution)
+3. [AI Search. Search and Scoring](https://learn.microsoft.com/en-us/training/modules/create-azure-cognitive-search-solution/7-enhance-index)  
+4. [Composed Document Intelligense Models. Case if you need to analyze several doc types](https://learn.microsoft.com/en-us/training/modules/create-composed-form-recognizer-model)
+5. [Vision. Train a Custom Model using COCO](https://learn.microsoft.com/en-us/training/modules/custom-model-ai-vision-image-classification/3-create-custom-project)
+6. [Deploy AI Services in Containers, in AKS, ACI, or even locally](https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use-with-ai-services)
+7. [Analyze Video Indexer. Widgets Integration and API](https://learn.microsoft.com/en-us/training/modules/analyze-video/4-use-video-indexer-widgets-apis)
+8. [Semantic Ranking configuration in AI Search Index](https://learn.microsoft.com/en-us/training/modules/use-semantic-search/3-set-up-semantic-search)
+9. [Knowledge Store & Knowledge Mining with AI Search](https://learn.microsoft.com/en-us/training/modules/create-knowledge-store-azure-cognitive-search/1-introduction)
+10. [Integrate OpenAI into App. Useful Lab](https://learn.microsoft.com/en-us/training/modules/develop-applications-openai/3-integrate-app?pivots=csharp)
+11. [Host Mistral and other models in AI Hub](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral?tabs=mistral-large&pivots=programming-language-python)  
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
