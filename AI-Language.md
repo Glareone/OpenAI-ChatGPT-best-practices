@@ -29,12 +29,12 @@ Might be useful if you want to improve search in AI search with Hybrid or Semant
 
 # Sentiment Analysis
 
-1. Check the sentiment of the text
+1. Check the sentiment of the text  
 
-> https://ai-language-key-phrases-extraction.cognitiveservices.azure.com/language/:analyze-text?api-version=2022-05-01
-> H- Content-Type application/json
-> H- Ocp-Apim-Subscription-Key "YOUR KEY"
-> Body:
+> https://ai-language-key-phrases-extraction.cognitiveservices.azure.com/language/:analyze-text?api-version=2022-05-01  
+> H- Content-Type application/json  
+> H- Ocp-Apim-Subscription-Key "YOUR KEY"  
+> Body:  
 ```
 {
   "kind": "SentimentAnalysis",
@@ -51,8 +51,7 @@ Might be useful if you want to improve search in AI search with Hybrid or Semant
     ]
   }
 }
+```
+
 
 <img width="888" alt="image" src="https://github.com/user-attachments/assets/c8a2e01c-a2a9-48cc-89f5-8f98d35964ce" />
-
-
-```
