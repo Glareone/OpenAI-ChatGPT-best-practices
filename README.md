@@ -31,7 +31,7 @@ OpenAI and ChatGPT repo
 10. [Integrate OpenAI into App. Useful Lab](https://learn.microsoft.com/en-us/training/modules/develop-applications-openai/3-integrate-app?pivots=csharp)
 11. [Host Mistral and other models in AI Hub](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral?tabs=mistral-large&pivots=programming-language-python)
 12. [Azure Language. Multi-turn multi-step conversation](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/5-implement-multi-turn-conversation)
-13. [Key Phrases Extraction from text](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/4-extract-key-phrases)  
+13. [Key Phrases Extraction from text, Sentiment Analysis, Linked Entities](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/4-extract-key-phrases)  
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
