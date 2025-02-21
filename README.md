@@ -35,11 +35,13 @@ OpenAI and ChatGPT repo
 14. [Knowledge Store & Knowledge Mining with AI Search](https://learn.microsoft.com/en-us/training/modules/create-knowledge-store-azure-cognitive-search/1-introduction)
 15. [Integrate OpenAI into App. Useful Lab](https://learn.microsoft.com/en-us/training/modules/develop-applications-openai/3-integrate-app?pivots=csharp)
 16. [Host Mistral and other models in AI Hub](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral?tabs=mistral-large&pivots=programming-language-python)
-17. [Azure Language. Multi-turn multi-step conversation](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/5-implement-multi-turn-conversation)
-18. [Azure Language. Conversation Language understanding. Classical way to build AI-assistant. Utterances: Turn-on Turn-off & Smart home](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/2-understand-resources-for-building)  
-19. [Key Phrases Extraction from text, Sentiment Analysis, Linked Entities](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/4-extract-key-phrases)
-20. [Translate speech to text. Materials](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/4-synthesize-translation)    
-21. [Translate speech to text and synthesize the output if needed. Example](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation?pivots=programming-language-csharp&tabs=macos%2Cterminal)  
+17. [AI Language. Multi-turn multi-step conversation](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/5-implement-multi-turn-conversation)
+18. [AI Language. Conversation Language understanding. Classical way to build AI-assistant. Utterances: Turn-on Turn-off & Smart home](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/2-understand-resources-for-building)
+19. [AI Language. Custom Named Entities Recognition. Laws, Business Cases](https://learn.microsoft.com/en-us/training/modules/custom-name-entity-recognition/2-understand-custom-named)  
+20. [Key Phrases Extraction from text, Sentiment Analysis, Linked Entities](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/4-extract-key-phrases)
+21. [Translate speech to text. Materials](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/4-synthesize-translation)    
+22. [Translate speech to text and synthesize the output if needed. Example](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation?pivots=programming-language-csharp&tabs=macos%2Cterminal)  
+
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
