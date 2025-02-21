@@ -52,4 +52,7 @@ Might be useful if you want to improve search in AI search with Hybrid or Semant
   }
 }
 
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/c8a2e01c-a2a9-48cc-89f5-8f98d35964ce" />
+
+
 ```
