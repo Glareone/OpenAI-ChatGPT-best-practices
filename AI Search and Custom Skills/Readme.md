@@ -2,7 +2,7 @@
 ## Default Skills and their usage
 
 ## Custom Skills using Azure Function
-As starting point i used [lab from learn portal](https://learn.microsoft.com/en-us/training/modules/create-azure-ai-custom-skill/3-add-custom-skill)  
+As starting point i used [lab from learn portal](https://learn.microsoft.com/en-us/training/modules/create-azure-ai-custom-skill/3-add-custom-skill) and [Microsoft Lab](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/02-search-skills.html)  
   
 ![image](https://github.com/user-attachments/assets/0bb6bdda-1db4-409d-bf43-195b54d3c7c9)
 
