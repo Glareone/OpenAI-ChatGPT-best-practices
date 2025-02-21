@@ -40,7 +40,8 @@ OpenAI and ChatGPT repo
 19. [AI Language. Custom Named Entities Recognition. Laws, Business Cases](https://learn.microsoft.com/en-us/training/modules/custom-name-entity-recognition/2-understand-custom-named)  
 20. [Key Phrases Extraction from text, Sentiment Analysis, Linked Entities](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/4-extract-key-phrases)
 21. [Translate speech to text. Materials](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/4-synthesize-translation)    
-22. [Translate speech to text and synthesize the output if needed. Example](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation?pivots=programming-language-csharp&tabs=macos%2Cterminal)  
+22. [Translate speech to text and synthesize the output if needed. Example](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation?pivots=programming-language-csharp&tabs=macos%2Cterminal)
+23. [AI Speech. Speech Synthesis](https://learn.microsoft.com/en-us/training/modules/create-speech-enabled-apps/6-speech-synthesis-markup)  
 
 
 ## Machine Learning Materials
