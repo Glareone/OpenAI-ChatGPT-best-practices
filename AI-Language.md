@@ -27,6 +27,35 @@ Might be useful if you want to improve search in AI search with Hybrid or Semant
 
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/ea708dd2-de00-4d81-8ab9-ff8aba10013a" />
 
+# Extract linked entities
+
+1. Extract Linked Entities, links to internet resources having more information with related information to your input
+
+> https://ai-language-key-phrases-extraction.cognitiveservices.azure.com/language/:analyze-text?api-version=2022-05-01
+> H- Content-Type application/json  
+> H- Ocp-Apim-Subscription-Key "Key"  
+> body:
+```
+{
+  "kind": "EntityLinking",
+  "parameters": {
+    "modelVersion": "latest"
+  },
+  "analysisInput": {
+    "documents": [
+      {
+        "id": "1",
+        "language": "en",
+        "text": "I saw Venus shining in the sky"
+      }
+    ]
+  }
+}
+```
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/3b5aa2f0-a65b-4dba-8f6e-00c7f6694cda" />
+
+
 # Sentiment Analysis
 
 1. Check the sentiment of the text  
