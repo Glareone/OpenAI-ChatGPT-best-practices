@@ -22,7 +22,7 @@ OpenAI and ChatGPT repo
 1. [AI Search. Debug Search Issues](https://learn.microsoft.com/en-us/training/modules/maintain-azure-cognitive-search-solution/07-debug-search-issues-use-azure-portal)
 2. [AI Search. Performance and Monitoring](https://learn.microsoft.com/en-us/training/modules/maintain-azure-cognitive-search-solution/03-optimize-performance-of-azure-cognitive-search-solution)
 3. [AI Search. Search and Scoring](https://learn.microsoft.com/en-us/training/modules/create-azure-cognitive-search-solution/7-enhance-index)
-4. [AI Search. Implement Advanced Search Features](https://learn.microsoft.com/en-us/training/modules/implement-advanced-search-features-azure-cognitive-search/?sharingId=8A2C0E47AED1BEB)  
+4. [AI Search. Implement Advanced Search Features. Scoring Profiles, Fuzzy Search, Term Boosting, Term Proximity](https://learn.microsoft.com/en-us/training/modules/implement-advanced-search-features-azure-cognitive-search/?sharingId=8A2C0E47AED1BEB)  
 5. [Composed Document Intelligense Models. Case if you need to analyze several doc types](https://learn.microsoft.com/en-us/training/modules/create-composed-form-recognizer-model)
 6. [Vision. Train a Custom Model using COCO](https://learn.microsoft.com/en-us/training/modules/custom-model-ai-vision-image-classification/3-create-custom-project)
 7. [Deploy AI Services in Containers, in AKS, ACI, or even locally](https://learn.microsoft.com/en-us/training/modules/investigate-container-for-use-with-ai-services)
