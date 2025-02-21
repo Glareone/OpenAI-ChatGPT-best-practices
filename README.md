@@ -32,7 +32,9 @@ OpenAI and ChatGPT repo
 11. [Host Mistral and other models in AI Hub](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral?tabs=mistral-large&pivots=programming-language-python)
 12. [Azure Language. Multi-turn multi-step conversation](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/5-implement-multi-turn-conversation)
 13. [Azure Language. Conversation Language understanding. Classical way to build AI-assistant. Utterances: Turn-on Turn-off & Smart home](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/2-understand-resources-for-building)  
-14. [Key Phrases Extraction from text, Sentiment Analysis, Linked Entities](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/4-extract-key-phrases)  
+14. [Key Phrases Extraction from text, Sentiment Analysis, Linked Entities](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/4-extract-key-phrases)
+15. [Translate speech to text. Materials](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/4-synthesize-translation)    
+16. [Translate speech to text and synthesize the output if needed. Example](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation?pivots=programming-language-csharp&tabs=macos%2Cterminal)  
 
 ## Machine Learning Materials
 1. [Machine Learning](https://github.com/Glareone/OpenAI-and-ChatGPT-meet-.Net/blob/main/Machine-Learning.md)  
