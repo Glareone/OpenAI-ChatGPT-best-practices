@@ -2,6 +2,8 @@
 ## Default Skills and their usage
 
 ## Custom Skills using Azure Function
+As starting point i used [lab from learn portal](https://learn.microsoft.com/en-us/training/modules/create-azure-ai-custom-skill/3-add-custom-skill)  
+  
 ![image](https://github.com/user-attachments/assets/0bb6bdda-1db4-409d-bf43-195b54d3c7c9)
 
 ```json
